@@ -13,3 +13,7 @@ target
 .pydevproject
 .settings
 metastore_db
+
+### idea project files
+.idea
+*.iml
